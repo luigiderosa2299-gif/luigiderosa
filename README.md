@@ -18,6 +18,7 @@
 | Progetto | Descrizione | Stack / Focus |
 |---|---|---|
 | [Trading Floor Support Center — Secure & Redundant Network Infrastructure](https://github.com/luigiderosa2299-gif/Trading-Floor-Support-Center-Secure-Redundant-Network-Infrastructure) | Progettazione di una rete enterprise sicura e ridondata (600 utenti, 6 dipartimenti) con Cisco Packet Tracer: VLAN segmentation, port security, ACL, OSPF, dual-ISP redundancy, SSHv2 | Cisco Packet Tracer, VLAN, OSPF, ACL, Port Security |
+| [Home Lab — Cybersecurity Practice Environment](https://github.com/luigiderosa2299-gif/home-lab-cybersecurity) | Lab personale virtualizzato (Kali Linux + DVWA su Docker) per esercitarmi su network scanning e vulnerability assessment, documentato con architettura, evidenze e troubleshooting reale | UTM/QEMU, Kali Linux, Docker, Nmap |
 
 > Altri progetti in arrivo mano a mano che completo i laboratori pratici del percorso Security+ (spoofing, honeypot, hardening Linux, sicurezza cloud AWS, Active Directory).
 
