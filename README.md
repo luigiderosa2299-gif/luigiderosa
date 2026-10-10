@@ -18,7 +18,8 @@
 | Progetto | Descrizione | Stack / Focus |
 |---|---|---|
 | [Trading Floor Support Center — Secure & Redundant Network Infrastructure](https://github.com/luigiderosa2299-gif/Trading-Floor-Support-Center-Secure-Redundant-Network-Infrastructure) | Progettazione di una rete enterprise sicura e ridondata (600 utenti, 6 dipartimenti) con Cisco Packet Tracer: VLAN segmentation, port security, ACL, OSPF, dual-ISP redundancy, SSHv2 | Cisco Packet Tracer, VLAN, OSPF, ACL, Port Security |
-| [Home Lab — Cybersecurity Practice Environment](https://github.com/luigiderosa2299-gif/home-lab-cybersecurity) | Lab personale virtualizzato (Kali Linux + DVWA su Docker) per esercitarmi su network scanning e vulnerability assessment, documentato con architettura, evidenze e troubleshooting reale | UTM/QEMU, Kali Linux, Docker, Nmap |
+| [Home Lab — Cybersecurity Practice Environment](https://github.com/luigiderosa2299-gif/home-lab-cybersecurity) | Lab personale virtualizzato (Kali Linux + DVWA/WebGoat/Mutillidae su Docker) per esercitarmi su network scanning e vulnerability assessment, documentato con architettura, evidenze e troubleshooting reale | UTM/QEMU, Kali Linux, Docker, Nmap |
+| [Python Keylogger — Malware Analysis & Detection](https://github.com/luigiderosa2299-gif/python-keylogger-lab) | Keylogger didattico scritto da zero in Python, affiancato da una regola YARA e uno script di detection comportamentale, entrambi testati con risultati reali (incluse le lezioni sui falsi positivi) | Python, pynput, YARA, psutil |
 
 > Altri progetti in arrivo mano a mano che completo i laboratori pratici del percorso Security+ (spoofing, honeypot, hardening Linux, sicurezza cloud AWS, Active Directory).
 
